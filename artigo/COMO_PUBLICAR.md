@@ -3,9 +3,8 @@
 Nada foi publicado nem enviado. Tudo depende de você.
 
 ## 0. Antes de tudo: revisar
-- Leia o `preprint.md` (ou o `preprint.pdf`) inteiro. Seu nome já está lá;
-  falta trocar `[e-mail]` (o bioRxiv exige um e-mail de contato). Depois gere
-  o PDF de novo:
+- Leia o `preprint.md` (ou o `preprint.pdf`) inteiro. Nome e e-mail já estão
+  lá. Se mudar algo, gere o PDF de novo:
   `uv run --with markdown python scripts/gerar_pdf.py`.
 - O artigo do BANC está citado como preprint do bioRxiv
   (doi:10.1101/2025.07.31.667571). Se ele já saiu numa revista, troque pela

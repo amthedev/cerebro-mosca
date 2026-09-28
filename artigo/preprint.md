@@ -2,7 +2,7 @@
 
 **Allan Matheus Silva Santos**¹
 
-¹ Independent researcher · [e-mail]
+¹ Independent researcher · allandevjr@gmail.com
 
 *Preprint draft — September 2026. Not peer reviewed.*
 
