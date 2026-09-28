@@ -305,7 +305,7 @@ thresholds as for FlyWire: 0.5 for fast transmitters, 0.8 for modulators). Named
 Clavicle, Fudog, aBN1) use the root IDs from the original repository, all
 unchanged in v783.
 
-**Code availability.** [GitHub URL]. `scripts/baixar_dados.sh` downloads all
+**Code availability.** https://github.com/amthedev/cerebro-mosca. `scripts/baixar_dados.sh` downloads all
 public data. `experimentos/12`–`17` regenerate every number and figure.
 
 **AI assistance.** Code, analyses and a first draft of this text were produced

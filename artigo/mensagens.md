@@ -49,7 +49,7 @@ continuam de pé.
 > veto; the partial Ir94e veto; and JO-CE→aBN1 versus JO-F.
 >
 > Code and details: [LINK DO SEU REPOSITÓRIO] (`experimentos/14_auditoria.py`).
-> Draft write-up: [LINK DO PREPRINT, se houver].
+> Draft write-up: https://github.com/amthedev/cerebro-mosca/blob/main/artigo/preprint.md
 >
 > Best regards,
 > Allan Matheus Silva Santos
@@ -79,7 +79,7 @@ separa. A mensagem é uma pergunta, não uma afirmação de erro.
 >   split in FlyWire would help modelling studies that stimulate "sugar" GRNs.
 >
 > Thank you for the annotations — they made this comparison possible.
-> Allan Matheus Silva Santos · [LINK DO REPOSITÓRIO]
+> Allan Matheus Silva Santos · https://github.com/amthedev/cerebro-mosca
 
 ---
 
@@ -116,8 +116,7 @@ relação ao FlyWire e a contagem de sinapses, que depende da tabela, v2 ou v3.
 > | ORN_DA1 | 224 | acetylcholine 99.6% | histamine (1.00) |
 > | LPLC2 | 177 | acetylcholine 98.9% | glutamate (1.00) |
 >
-> The full list is produced by `experimentos/17_nt_banc.py` in [LINK DO
-> REPOSITÓRIO]. It looks like the consensus may be joined to the wrong type in
+> The full list is produced by `experimentos/17_nt_banc.py` in https://github.com/amthedev/cerebro-mosca. It looks like the consensus may be joined to the wrong type in
 > some cases, but you will know better.
 >
 > **2. For people simulating BANC (observations, not errors).** Compared with
@@ -130,7 +129,7 @@ relação ao FlyWire e a contagem de sinapses, que depende da tabela, v2 ou v3.
 > giant-fiber inputs with v2). A single global scale is therefore not enough
 > for LIF simulations: BANC becomes unstable while FlyWire does not.
 >
-> Details and code: [LINK DO REPOSITÓRIO] (`src/mosca/banc.py`,
+> Details and code: https://github.com/amthedev/cerebro-mosca (`src/mosca/banc.py`,
 > `experimentos/13_duas_moscas.py`, `experimentos/17_nt_banc.py`).
 >
 > Best,
