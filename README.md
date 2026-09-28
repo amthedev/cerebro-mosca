@@ -179,6 +179,12 @@ e os vídeos em `resultados/`.
 - Sem revisão por pares; comportamentos não comparados quantitativamente com
   moscas reais.
 
+## Relatos enviados às equipes
+
+- Modelo de Shiu et al.: [philshiu/Drosophila_brain_model#11](https://github.com/philshiu/Drosophila_brain_model/issues/11) (il3LN6 e sinais)
+- Anotações FlyWire: [flyconnectome/flywire_annotations#7](https://github.com/flyconnectome/flywire_annotations/issues/7) (LB1e, LB3)
+- BANC: [jasper-tms/the-BANC-fly-connectome#8](https://github.com/jasper-tms/the-BANC-fly-connectome/issues/8) (consenso de neurotransmissor)
+
 ## Autor
 
 Allan Matheus Silva Santos · Instagram [@allanmt_dev](https://instagram.com/allanmt_dev)
