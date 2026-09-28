@@ -5,4 +5,6 @@ authors:
   - family-names: "Silva Santos"
     given-names: "Allan Matheus"
 license: MIT
+doi: 10.5281/zenodo.23005090
+repository-code: "https://github.com/amthedev/cerebro-mosca"
 date-released: 2026-09-28

@@ -15,7 +15,7 @@ Auditing a whole-brain Drosophila model across hemispheres and individuals: a si
 
 **Competing interests:** The author declares no competing interests.
 **Funding:** None.
-**Data and code availability:** All code is available at https://github.com/amthedev/cerebro-mosca. All data are public (FlyWire v783, Shiu et al. 2024 model repository, BANC v888 release) and are downloaded by `scripts/baixar_dados.sh`.
+**Data and code availability:** All code is available at https://github.com/amthedev/cerebro-mosca and archived on Zenodo (doi:10.5281/zenodo.23005090). All data are public (FlyWire v783, Shiu et al. 2024 model repository, BANC v888 release) and are downloaded by `scripts/baixar_dados.sh`.
 **AI use:** Code, analyses and a first draft of the text were produced with the help of an AI assistant (Claude, Anthropic). The author reviewed the code and results and takes responsibility for the content.
 
 **Abstract (versão curta, se o formulário pedir menos palavras):**

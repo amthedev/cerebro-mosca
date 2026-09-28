@@ -1,5 +1,7 @@
 # cerebro: o sistema nervoso inteiro da mosca-da-fruta, melhorado
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23005090.svg)](https://doi.org/10.5281/zenodo.23005090)
+
 O cérebro completo de uma mosca (*Drosophila melanogaster*) copiado neurônio
 por neurônio do conectoma FlyWire, simulado como rede de neurônios que
 disparam (LIF), com correções biológicas, memória ensinada pela dopamina e a

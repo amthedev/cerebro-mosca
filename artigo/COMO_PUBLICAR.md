@@ -20,9 +20,10 @@ https://github.com/amthedev/cerebro-mosca. Para enviar mudanças novas:
 `git add -A && git commit -m "o que mudou" && git push`. Os dados (~1 GB) não
 vão para o GitHub (`.gitignore`); quem clonar roda `scripts/baixar_dados.sh`.
 
-## 2. DOI para o código (Zenodo, grátis)
-Em zenodo.org, entre com a conta do GitHub, ative o repositório e crie um
-"release" no GitHub. O Zenodo gera um DOI citável.
+## 2. DOI para o código (feito)
+doi:10.5281/zenodo.23005090 (sempre aponta para a versão mais nova; a v1.0.0 é
+10.5281/zenodo.23005091). Cada novo "release" no GitHub gera uma versão nova
+no Zenodo.
 
 ## 3. Preprint no bioRxiv (grátis)
 - Converta para PDF (ex.: cole no Google Docs com as figuras de
