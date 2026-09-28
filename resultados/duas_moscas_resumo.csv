@@ -1,0 +1,253 @@
+versao,protocolo,comparação,spearman,jaccard,n,ativos_fw,ativos_banc,saida_fw,saida_banc
+como está,açúcar/água (LB3),ruído FlyWire,0.9929086310621815,0.967391304347826,368,453,69,98.5,0.0
+como está,açúcar/água (LB3),ruído BANC,0.978658536585366,0.9,10,453,69,98.5,0.0
+como está,açúcar/água (LB3),hemisférios FlyWire,0.7885172081933504,0.6857142857142857,385,453,69,98.5,0.0
+como está,açúcar/água (LB3),hemisférios BANC,0.4151091192610704,0.1038961038961039,77,453,69,98.5,0.0
+como está,açúcar/água (LB3),indivíduos (esq),0.273288304271748,0.028391167192429023,317,453,69,98.5,0.0
+como está,açúcar/água (LB3),indivíduos (dir),0.3103813616025683,0.2781954887218045,266,453,69,98.5,0.0
+como está,amargo (LB1a-d),ruído FlyWire,0.9905840948382317,0.9782608695652174,46,71,30,,
+como está,amargo (LB1a-d),ruído BANC,0.8999999999999998,1.0,5,71,30,,
+como está,amargo (LB1a-d),hemisférios FlyWire,0.3310496227476813,0.35294117647058826,51,71,30,,
+como está,amargo (LB1a-d),hemisférios BANC,0.6547092934863683,0.17391304347826086,23,71,30,,
+como está,amargo (LB1a-d),indivíduos (esq),0.5611920546185887,0.11627906976744186,43,71,30,,
+como está,amargo (LB1a-d),indivíduos (dir),0.29420916297410565,0.3939393939393939,33,71,30,,
+como está,cheiro de comida,ruído FlyWire,0.936451624286897,0.9136420525657072,799,1606,1460,,
+como está,cheiro de comida,ruído BANC,0.9978723278370593,0.9739130434782609,345,1606,1460,,
+como está,cheiro de comida,hemisférios FlyWire,0.7392049351708158,0.6701388888888888,864,1606,1460,,
+como está,cheiro de comida,hemisférios BANC,0.6851941207850223,0.5837837837837838,370,1606,1460,,
+como está,cheiro de comida,indivíduos (esq),0.40392173692350686,0.3193717277486911,764,1606,1460,,
+como está,cheiro de comida,indivíduos (dir),0.459388696208813,0.3164005805515239,689,1606,1460,,
+como está,CO2 (ORN_V),ruído FlyWire,0.9948251466528975,0.9708454810495627,343,614,380,,
+como está,CO2 (ORN_V),ruído BANC,0.9994879548357538,1.0,181,614,380,,
+como está,CO2 (ORN_V),hemisférios FlyWire,0.6526228901807368,0.544529262086514,393,614,380,,
+como está,CO2 (ORN_V),hemisférios BANC,0.7135553301520207,0.6428571428571429,210,614,380,,
+como está,CO2 (ORN_V),indivíduos (esq),0.5949547415577697,0.44776119402985076,335,614,380,,
+como está,CO2 (ORN_V),indivíduos (dir),0.47208054007079564,0.43812709030100333,299,614,380,,
+como está,ameaça (LPLC2),ruído FlyWire,0.9891562107309441,0.95,460,621,271,116.0,50.0
+como está,ameaça (LPLC2),ruído BANC,0.989999603211592,0.8859060402684564,149,621,271,116.0,50.0
+como está,ameaça (LPLC2),hemisférios FlyWire,0.5622773448048082,0.5567010309278351,582,621,271,116.0,50.0
+como está,ameaça (LPLC2),hemisférios BANC,0.0998891650044229,0.22093023255813954,344,621,271,116.0,50.0
+como está,ameaça (LPLC2),indivíduos (esq),0.03796355312270846,0.1652542372881356,472,621,271,116.0,50.0
+como está,ameaça (LPLC2),indivíduos (dir),-0.13585624040897248,0.2327150084317032,593,621,271,116.0,50.0
+como está,antena (JO-C/E),ruído FlyWire,0.9865355241986264,0.9195979899497487,199,515,303,34.0,0.0
+como está,antena (JO-C/E),ruído BANC,0.991971272587505,0.9,80,515,303,34.0,0.0
+como está,antena (JO-C/E),hemisférios FlyWire,0.18144540092672082,0.40892193308550184,269,515,303,34.0,0.0
+como está,antena (JO-C/E),hemisférios BANC,0.26402792333955755,0.45555555555555555,90,515,303,34.0,0.0
+como está,antena (JO-C/E),indivíduos (esq),0.2911333969702245,0.34375,192,515,303,34.0,0.0
+como está,antena (JO-C/E),indivíduos (dir),0.2731649080057817,0.26063829787234044,188,515,303,34.0,0.0
+escala global,açúcar/água (LB3),ruído FlyWire,0.9929086310621815,0.967391304347826,368,453,5181,98.5,2.0
+escala global,açúcar/água (LB3),ruído BANC,0.9862499835226026,0.9232804232804233,3402,453,5181,98.5,2.0
+escala global,açúcar/água (LB3),hemisférios FlyWire,0.7885172081933504,0.6857142857142857,385,453,5181,98.5,2.0
+escala global,açúcar/água (LB3),hemisférios BANC,0.40472360888676967,0.5557900290160908,3791,453,5181,98.5,2.0
+escala global,açúcar/água (LB3),indivíduos (esq),-0.279841562029356,0.041167434715821814,3255,453,5181,98.5,2.0
+escala global,açúcar/água (LB3),indivíduos (dir),-0.1174846916952056,0.046274738067520374,3436,453,5181,98.5,2.0
+escala global,amargo (LB1a-d),ruído FlyWire,0.9905840948382317,0.9782608695652174,46,71,41,,
+escala global,amargo (LB1a-d),ruído BANC,0.9911111111111108,0.9285714285714286,14,71,41,,
+escala global,amargo (LB1a-d),hemisférios FlyWire,0.3310496227476813,0.35294117647058826,51,71,41,,
+escala global,amargo (LB1a-d),hemisférios BANC,0.5269623666314996,0.125,88,71,41,,
+escala global,amargo (LB1a-d),indivíduos (esq),0.4078365416292675,0.24444444444444444,45,71,41,,
+escala global,amargo (LB1a-d),indivíduos (dir),0.4216451404013868,0.1782178217821782,101,71,41,,
+escala global,cheiro de comida,ruído FlyWire,0.936451624286897,0.9136420525657072,799,1606,8336,,
+escala global,cheiro de comida,ruído BANC,0.9948155797957329,0.9603112840466926,3855,1606,8336,,
+escala global,cheiro de comida,hemisférios FlyWire,0.7392049351708158,0.6701388888888888,864,1606,8336,,
+escala global,cheiro de comida,hemisférios BANC,0.4196707378126725,0.5612388549976537,4262,1606,8336,,
+escala global,cheiro de comida,indivíduos (esq),0.041866072573399506,0.12863825363825362,3848,1606,8336,,
+escala global,cheiro de comida,indivíduos (dir),-0.011980020784737071,0.118706942236354,3774,1606,8336,,
+escala global,CO2 (ORN_V),ruído FlyWire,0.9948251466528975,0.9708454810495627,343,614,5604,,
+escala global,CO2 (ORN_V),ruído BANC,0.9931707812941574,0.9628349178910977,3471,614,5604,,
+escala global,CO2 (ORN_V),hemisférios FlyWire,0.6526228901807368,0.544529262086514,393,614,5604,,
+escala global,CO2 (ORN_V),hemisférios BANC,0.39974580334437027,0.5525972330984077,3831,614,5604,,
+escala global,CO2 (ORN_V),indivíduos (esq),0.021191235595441744,0.06794682422451995,3385,614,5604,,
+escala global,CO2 (ORN_V),indivíduos (dir),0.06965799579407299,0.06086956521739131,3220,614,5604,,
+escala global,ameaça (LPLC2),ruído FlyWire,0.9891562107309441,0.95,460,621,6209,116.0,45.0
+escala global,ameaça (LPLC2),ruído BANC,0.9942145477922041,0.9593229593229593,3663,621,6209,116.0,45.0
+escala global,ameaça (LPLC2),hemisférios FlyWire,0.5622773448048082,0.5567010309278351,582,621,6209,116.0,45.0
+escala global,ameaça (LPLC2),hemisférios BANC,0.32600860868381043,0.5590531966813079,4098,621,6209,116.0,45.0
+escala global,ameaça (LPLC2),indivíduos (esq),-0.045807750453438205,0.07589658048373644,3597,621,6209,116.0,45.0
+escala global,ameaça (LPLC2),indivíduos (dir),0.03984980828237615,0.08805384183959619,3566,621,6209,116.0,45.0
+escala global,antena (JO-C/E),ruído FlyWire,0.9865355241986264,0.9195979899497487,199,515,5745,34.0,4.0
+escala global,antena (JO-C/E),ruído BANC,0.9924841843887093,0.955794842731652,3529,515,5745,34.0,4.0
+escala global,antena (JO-C/E),hemisférios FlyWire,0.18144540092672082,0.40892193308550184,269,515,5745,34.0,4.0
+escala global,antena (JO-C/E),hemisférios BANC,0.41181930533765515,0.5651292448048657,3946,515,5745,34.0,4.0
+escala global,antena (JO-C/E),indivíduos (esq),-0.1279381735047444,0.03269513991163476,3395,515,5745,34.0,4.0
+escala global,antena (JO-C/E),indivíduos (dir),-0.09202334768278866,0.03495484998543548,3433,515,5745,34.0,4.0
+calibrado,açúcar/água (LB3),ruído FlyWire,0.9929086310621815,0.967391304347826,368,453,279,98.5,2.5
+calibrado,açúcar/água (LB3),ruído BANC,0.9195594566289412,0.8701923076923077,208,453,279,98.5,2.5
+calibrado,açúcar/água (LB3),hemisférios FlyWire,0.7885172081933504,0.6857142857142857,385,453,279,98.5,2.5
+calibrado,açúcar/água (LB3),hemisférios BANC,0.1093212790227024,0.12050359712230216,1112,453,279,98.5,2.5
+calibrado,açúcar/água (LB3),indivíduos (esq),0.10295678384854967,0.3190348525469169,373,453,279,98.5,2.5
+calibrado,açúcar/água (LB3),indivíduos (dir),0.09599831326691073,0.1638655462184874,1190,453,279,98.5,2.5
+calibrado,amargo (LB1a-d),ruído FlyWire,0.9905840948382317,0.9782608695652174,46,71,38,,
+calibrado,amargo (LB1a-d),ruído BANC,1.0,0.8888888888888888,9,71,38,,
+calibrado,amargo (LB1a-d),hemisférios FlyWire,0.3310496227476813,0.35294117647058826,51,71,38,,
+calibrado,amargo (LB1a-d),hemisférios BANC,0.034966819203710385,0.002898550724637681,2415,71,38,,
+calibrado,amargo (LB1a-d),indivíduos (esq),0.4530368309955565,0.15555555555555556,45,71,38,,
+calibrado,amargo (LB1a-d),indivíduos (dir),-0.015296985444831051,0.006543494996150885,2598,71,38,,
+calibrado,cheiro de comida,ruído FlyWire,0.936451624286897,0.9136420525657072,799,1606,7554,,
+calibrado,cheiro de comida,ruído BANC,0.9694877811765021,0.9326409495548962,3370,1606,7554,,
+calibrado,cheiro de comida,hemisférios FlyWire,0.7392049351708158,0.6701388888888888,864,1606,7554,,
+calibrado,cheiro de comida,hemisférios BANC,0.2940398818435397,0.5072426280393171,3866,1606,7554,,
+calibrado,cheiro de comida,indivíduos (esq),0.1053034853378078,0.1624734768111549,3299,1606,7554,,
+calibrado,cheiro de comida,indivíduos (dir),0.10666818015497861,0.14812557147211217,3281,1606,7554,,
+calibrado,CO2 (ORN_V),ruído FlyWire,0.9948251466528975,0.9708454810495627,343,614,2028,,
+calibrado,CO2 (ORN_V),ruído BANC,0.16127775033742778,0.34797891036906853,2845,614,2028,,
+calibrado,CO2 (ORN_V),hemisférios FlyWire,0.6526228901807368,0.544529262086514,393,614,2028,,
+calibrado,CO2 (ORN_V),hemisférios BANC,-0.14480562849779083,0.2267235252309879,2814,614,2028,,
+calibrado,CO2 (ORN_V),indivíduos (esq),0.2750319050263327,0.22121486854034453,1103,614,2028,,
+calibrado,CO2 (ORN_V),indivíduos (dir),0.0956007118616544,0.07496307237813885,2708,614,2028,,
+calibrado,ameaça (LPLC2),ruído FlyWire,0.9891562107309441,0.95,460,621,4964,116.0,133.5
+calibrado,ameaça (LPLC2),ruído BANC,0.9848497591901145,0.946896780617325,3013,621,4964,116.0,133.5
+calibrado,ameaça (LPLC2),hemisférios FlyWire,0.5622773448048082,0.5567010309278351,582,621,4964,116.0,133.5
+calibrado,ameaça (LPLC2),hemisférios BANC,0.12609842908609098,0.4723173515981735,3504,621,4964,116.0,133.5
+calibrado,ameaça (LPLC2),indivíduos (esq),0.020352470705344194,0.1011197828299966,2947,621,4964,116.0,133.5
+calibrado,ameaça (LPLC2),indivíduos (dir),0.158990118491704,0.1268521864835562,2767,621,4964,116.0,133.5
+calibrado,antena (JO-C/E),ruído FlyWire,0.9865355241986264,0.9195979899497487,199,515,4731,34.0,0.0
+calibrado,antena (JO-C/E),ruído BANC,0.9786661733251404,0.9318106587222774,3021,515,4731,34.0,0.0
+calibrado,antena (JO-C/E),hemisférios FlyWire,0.18144540092672082,0.40892193308550184,269,515,4731,34.0,0.0
+calibrado,antena (JO-C/E),hemisférios BANC,0.16739186139406875,0.4829097283085013,3423,515,4731,34.0,0.0
+calibrado,antena (JO-C/E),indivíduos (esq),-0.13722491967215578,0.043493511048754825,2851,515,4731,34.0,0.0
+calibrado,antena (JO-C/E),indivíduos (dir),-0.1760010056622897,0.03907113896056027,2713,515,4731,34.0,0.0
+calibrado + consenso BANC,açúcar/água (LB3),ruído FlyWire,0.9929086310621815,0.967391304347826,368,453,346,98.5,18.5
+calibrado + consenso BANC,açúcar/água (LB3),ruído BANC,0.9476217217194302,0.7888446215139442,251,453,346,98.5,18.5
+calibrado + consenso BANC,açúcar/água (LB3),hemisférios FlyWire,0.7885172081933504,0.6857142857142857,385,453,346,98.5,18.5
+calibrado + consenso BANC,açúcar/água (LB3),hemisférios BANC,0.12443835473478615,0.32494279176201374,437,453,346,98.5,18.5
+calibrado + consenso BANC,açúcar/água (LB3),indivíduos (esq),-0.12155893783937263,0.2595936794582393,443,453,346,98.5,18.5
+calibrado + consenso BANC,açúcar/água (LB3),indivíduos (dir),0.44395315887684983,0.477751756440281,427,453,346,98.5,18.5
+calibrado + consenso BANC,amargo (LB1a-d),ruído FlyWire,0.9905840948382317,0.9782608695652174,46,71,38,,
+calibrado + consenso BANC,amargo (LB1a-d),ruído BANC,0.9969650916353059,0.9,10,71,38,,
+calibrado + consenso BANC,amargo (LB1a-d),hemisférios FlyWire,0.3310496227476813,0.35294117647058826,51,71,38,,
+calibrado + consenso BANC,amargo (LB1a-d),hemisférios BANC,0.07684584075809191,0.011928429423459244,503,71,38,,
+calibrado + consenso BANC,amargo (LB1a-d),indivíduos (esq),0.37982620576300113,0.15217391304347827,46,71,38,,
+calibrado + consenso BANC,amargo (LB1a-d),indivíduos (dir),0.018919613232016522,0.030710172744721688,521,71,38,,
+calibrado + consenso BANC,cheiro de comida,ruído FlyWire,0.936451624286897,0.9136420525657072,799,1606,4392,,
+calibrado + consenso BANC,cheiro de comida,ruído BANC,0.983050208826784,0.9431438127090301,1196,1606,4392,,
+calibrado + consenso BANC,cheiro de comida,hemisférios FlyWire,0.7392049351708158,0.6701388888888888,864,1606,4392,,
+calibrado + consenso BANC,cheiro de comida,hemisférios BANC,0.41038217808825633,0.4768892149669846,1363,1606,4392,,
+calibrado + consenso BANC,cheiro de comida,indivíduos (esq),0.3393406387071181,0.3835511145272867,1301,1606,4392,,
+calibrado + consenso BANC,cheiro de comida,indivíduos (dir),0.3532536052927108,0.3811509591326105,1199,1606,4392,,
+calibrado + consenso BANC,CO2 (ORN_V),ruído FlyWire,0.9948251466528975,0.9708454810495627,343,614,1197,,
+calibrado + consenso BANC,CO2 (ORN_V),ruído BANC,0.9689709071559025,0.9002976190476191,672,614,1197,,
+calibrado + consenso BANC,CO2 (ORN_V),hemisférios FlyWire,0.6526228901807368,0.544529262086514,393,614,1197,,
+calibrado + consenso BANC,CO2 (ORN_V),hemisférios BANC,0.4478552345378956,0.4838709677419355,775,614,1197,,
+calibrado + consenso BANC,CO2 (ORN_V),indivíduos (esq),0.4402687641844557,0.33380281690140845,710,614,1197,,
+calibrado + consenso BANC,CO2 (ORN_V),indivíduos (dir),0.512114545816222,0.3333333333333333,612,614,1197,,
+calibrado + consenso BANC,ameaça (LPLC2),ruído FlyWire,0.9891562107309441,0.95,460,621,1936,116.0,133.0
+calibrado + consenso BANC,ameaça (LPLC2),ruído BANC,0.9949515270017261,0.9605009633911368,1038,621,1936,116.0,133.0
+calibrado + consenso BANC,ameaça (LPLC2),hemisférios FlyWire,0.5622773448048082,0.5567010309278351,582,621,1936,116.0,133.0
+calibrado + consenso BANC,ameaça (LPLC2),hemisférios BANC,-0.16236464249896154,0.3065134099616858,1566,621,1936,116.0,133.0
+calibrado + consenso BANC,ameaça (LPLC2),indivíduos (esq),-0.13516445908899943,0.20905923344947736,1148,621,1936,116.0,133.0
+calibrado + consenso BANC,ameaça (LPLC2),indivíduos (dir),-0.022428298964157305,0.21933085501858737,1345,621,1936,116.0,133.0
+calibrado + consenso BANC,antena (JO-C/E),ruído FlyWire,0.9865355241986264,0.9195979899497487,199,515,1420,34.0,0.0
+calibrado + consenso BANC,antena (JO-C/E),ruído BANC,-0.11561111985838775,0.3772032902467685,851,515,1420,34.0,0.0
+calibrado + consenso BANC,antena (JO-C/E),hemisférios FlyWire,0.18144540092672082,0.40892193308550184,269,515,1420,34.0,0.0
+calibrado + consenso BANC,antena (JO-C/E),hemisférios BANC,-0.6595720663034638,0.11607738492328219,1499,515,1420,34.0,0.0
+calibrado + consenso BANC,antena (JO-C/E),indivíduos (esq),-0.10879332143003013,0.14833127317676142,809,515,1420,34.0,0.0
+calibrado + consenso BANC,antena (JO-C/E),indivíduos (dir),-0.28617113086658,0.09090909090909091,1100,515,1420,34.0,0.0
+calibrado + sinais do FlyWire,açúcar/água (LB3),ruído FlyWire,0.9929086310621815,0.967391304347826,368,453,406,98.5,21.5
+calibrado + sinais do FlyWire,açúcar/água (LB3),ruído BANC,0.9449686005725536,0.8980263157894737,304,453,406,98.5,21.5
+calibrado + sinais do FlyWire,açúcar/água (LB3),hemisférios FlyWire,0.7885172081933504,0.6857142857142857,385,453,406,98.5,21.5
+calibrado + sinais do FlyWire,açúcar/água (LB3),hemisférios BANC,0.20922127110229352,0.4089935760171306,467,453,406,98.5,21.5
+calibrado + sinais do FlyWire,açúcar/água (LB3),indivíduos (esq),0.04374210867313632,0.3595505617977528,445,453,406,98.5,21.5
+calibrado + sinais do FlyWire,açúcar/água (LB3),indivíduos (dir),0.42897281011100946,0.4745011086474501,451,453,406,98.5,21.5
+calibrado + sinais do FlyWire,amargo (LB1a-d),ruído FlyWire,0.9905840948382317,0.9782608695652174,46,71,38,,
+calibrado + sinais do FlyWire,amargo (LB1a-d),ruído BANC,0.9969650916353059,0.9,10,71,38,,
+calibrado + sinais do FlyWire,amargo (LB1a-d),hemisférios FlyWire,0.3310496227476813,0.35294117647058826,51,71,38,,
+calibrado + sinais do FlyWire,amargo (LB1a-d),hemisférios BANC,0.2541065985930465,0.026905829596412557,223,71,38,,
+calibrado + sinais do FlyWire,amargo (LB1a-d),indivíduos (esq),0.37982620576300113,0.15217391304347827,46,71,38,,
+calibrado + sinais do FlyWire,amargo (LB1a-d),indivíduos (dir),0.3026698071388588,0.07423580786026202,229,71,38,,
+calibrado + sinais do FlyWire,cheiro de comida,ruído FlyWire,0.936451624286897,0.9136420525657072,799,1606,4211,,
+calibrado + sinais do FlyWire,cheiro de comida,ruído BANC,0.9888413809269684,0.9495652173913044,1150,1606,4211,,
+calibrado + sinais do FlyWire,cheiro de comida,hemisférios FlyWire,0.7392049351708158,0.6701388888888888,864,1606,4211,,
+calibrado + sinais do FlyWire,cheiro de comida,hemisférios BANC,0.3711069849803194,0.46929492039423804,1319,1606,4211,,
+calibrado + sinais do FlyWire,cheiro de comida,indivíduos (esq),0.34804886671589874,0.4001610305958132,1242,1606,4211,,
+calibrado + sinais do FlyWire,cheiro de comida,indivíduos (dir),0.3252277243251149,0.3731218697829716,1198,1606,4211,,
+calibrado + sinais do FlyWire,CO2 (ORN_V),ruído FlyWire,0.9948251466528975,0.9708454810495627,343,614,1207,,
+calibrado + sinais do FlyWire,CO2 (ORN_V),ruído BANC,0.9721106329805497,0.8870292887029289,717,614,1207,,
+calibrado + sinais do FlyWire,CO2 (ORN_V),hemisférios FlyWire,0.6526228901807368,0.544529262086514,393,614,1207,,
+calibrado + sinais do FlyWire,CO2 (ORN_V),hemisférios BANC,0.31191742769623143,0.3872053872053872,891,614,1207,,
+calibrado + sinais do FlyWire,CO2 (ORN_V),indivíduos (esq),0.5099492782168553,0.3541963015647226,703,614,1207,,
+calibrado + sinais do FlyWire,CO2 (ORN_V),indivíduos (dir),0.5476761603529958,0.30735930735930733,693,614,1207,,
+calibrado + sinais do FlyWire,ameaça (LPLC2),ruído FlyWire,0.9891562107309441,0.95,460,621,738,116.0,97.0
+calibrado + sinais do FlyWire,ameaça (LPLC2),ruído BANC,0.9838629196310519,0.9232283464566929,508,621,738,116.0,97.0
+calibrado + sinais do FlyWire,ameaça (LPLC2),hemisférios FlyWire,0.5622773448048082,0.5567010309278351,582,621,738,116.0,97.0
+calibrado + sinais do FlyWire,ameaça (LPLC2),hemisférios BANC,0.2883686325046836,0.4453004622496148,649,621,738,116.0,97.0
+calibrado + sinais do FlyWire,ameaça (LPLC2),indivíduos (esq),0.2456477327025999,0.40901771336553944,621,621,738,116.0,97.0
+calibrado + sinais do FlyWire,ameaça (LPLC2),indivíduos (dir),0.20711068304615754,0.3863298662704309,673,621,738,116.0,97.0
+calibrado + sinais do FlyWire,antena (JO-C/E),ruído FlyWire,0.9865355241986264,0.9195979899497487,199,515,691,34.0,0.0
+calibrado + sinais do FlyWire,antena (JO-C/E),ruído BANC,0.9571630242484499,0.8567708333333334,384,515,691,34.0,0.0
+calibrado + sinais do FlyWire,antena (JO-C/E),hemisférios FlyWire,0.18144540092672082,0.40892193308550184,269,515,691,34.0,0.0
+calibrado + sinais do FlyWire,antena (JO-C/E),hemisférios BANC,0.12875649307599743,0.3033419023136247,389,515,691,34.0,0.0
+calibrado + sinais do FlyWire,antena (JO-C/E),indivíduos (esq),0.11062711729705337,0.27684964200477324,419,515,691,34.0,0.0
+calibrado + sinais do FlyWire,antena (JO-C/E),indivíduos (dir),0.1411156901791627,0.3474903474903475,259,515,691,34.0,0.0
+v3 como está,açúcar/água (LB3),ruído FlyWire,0.9929086310621815,0.967391304347826,368,453,83,98.5,0.0
+v3 como está,açúcar/água (LB3),ruído BANC,0.99281368301615,0.9583333333333334,24,453,83,98.5,0.0
+v3 como está,açúcar/água (LB3),hemisférios FlyWire,0.7885172081933504,0.6857142857142857,385,453,83,98.5,0.0
+v3 como está,açúcar/água (LB3),hemisférios BANC,0.49472226874114844,0.1926605504587156,109,453,83,98.5,0.0
+v3 como está,açúcar/água (LB3),indivíduos (esq),0.4050596551156266,0.07255520504731862,317,453,83,98.5,0.0
+v3 como está,açúcar/água (LB3),indivíduos (dir),0.23442470729316636,0.3274021352313167,281,453,83,98.5,0.0
+v3 como está,amargo (LB1a-d),ruído FlyWire,0.9905840948382317,0.9782608695652174,46,71,38,,
+v3 como está,amargo (LB1a-d),ruído BANC,0.9818181818181818,1.0,11,71,38,,
+v3 como está,amargo (LB1a-d),hemisférios FlyWire,0.3310496227476813,0.35294117647058826,51,71,38,,
+v3 como está,amargo (LB1a-d),hemisférios BANC,0.7700055773867488,0.32142857142857145,28,71,38,,
+v3 como está,amargo (LB1a-d),indivíduos (esq),0.49471845405114023,0.2,45,71,38,,
+v3 como está,amargo (LB1a-d),indivíduos (dir),0.33966828373594565,0.4444444444444444,36,71,38,,
+v3 como está,cheiro de comida,ruído FlyWire,0.936451624286897,0.9136420525657072,799,1606,2228,,
+v3 como está,cheiro de comida,ruído BANC,0.9905845320116523,0.9542619542619543,481,1606,2228,,
+v3 como está,cheiro de comida,hemisférios FlyWire,0.7392049351708158,0.6701388888888888,864,1606,2228,,
+v3 como está,cheiro de comida,hemisférios BANC,0.587681617283412,0.5494296577946768,526,1606,2228,,
+v3 como está,cheiro de comida,indivíduos (esq),0.32260363218085286,0.3635280095351609,839,1606,2228,,
+v3 como está,cheiro de comida,indivíduos (dir),0.32390723194698734,0.33725490196078434,765,1606,2228,,
+v3 como está,CO2 (ORN_V),ruído FlyWire,0.9948251466528975,0.9708454810495627,343,614,538,,
+v3 como está,CO2 (ORN_V),ruído BANC,0.9986513350824558,0.9838056680161943,247,614,538,,
+v3 como está,CO2 (ORN_V),hemisférios FlyWire,0.6526228901807368,0.544529262086514,393,614,538,,
+v3 como está,CO2 (ORN_V),hemisférios BANC,0.6428371678129713,0.465,400,614,538,,
+v3 como está,CO2 (ORN_V),indivíduos (esq),0.5208772355584088,0.4743935309973046,371,614,538,,
+v3 como está,CO2 (ORN_V),indivíduos (dir),0.41778612300445195,0.3711111111111111,450,614,538,,
+v3 como está,ameaça (LPLC2),ruído FlyWire,0.9891562107309441,0.95,460,621,2294,116.0,77.5
+v3 como está,ameaça (LPLC2),ruído BANC,0.5735540469523891,0.7175792507204611,1388,621,2294,116.0,77.5
+v3 como está,ameaça (LPLC2),hemisférios FlyWire,0.5622773448048082,0.5567010309278351,582,621,2294,116.0,77.5
+v3 como está,ameaça (LPLC2),hemisférios BANC,-0.18369604443060683,0.3739612188365651,1805,621,2294,116.0,77.5
+v3 como está,ameaça (LPLC2),indivíduos (esq),-0.13169262613375463,0.16576819407008087,1484,621,2294,116.0,77.5
+v3 como está,ameaça (LPLC2),indivíduos (dir),-0.02066585169988077,0.18758256274768825,1514,621,2294,116.0,77.5
+v3 como está,antena (JO-C/E),ruído FlyWire,0.9865355241986264,0.9195979899497487,199,515,435,34.0,0.0
+v3 como está,antena (JO-C/E),ruído BANC,0.967926872017737,0.9181286549707602,171,515,435,34.0,0.0
+v3 como está,antena (JO-C/E),hemisférios FlyWire,0.18144540092672082,0.40892193308550184,269,515,435,34.0,0.0
+v3 como está,antena (JO-C/E),hemisférios BANC,0.33310325248955264,0.4134078212290503,179,515,435,34.0,0.0
+v3 como está,antena (JO-C/E),indivíduos (esq),0.21698222553371266,0.4449152542372881,236,515,435,34.0,0.0
+v3 como está,antena (JO-C/E),indivíduos (dir),0.1881611746235676,0.36666666666666664,210,515,435,34.0,0.0
+v3 calibrado + consenso BANC,açúcar/água (LB3),ruído FlyWire,0.9929086310621815,0.967391304347826,368,453,337,98.5,46.0
+v3 calibrado + consenso BANC,açúcar/água (LB3),ruído BANC,0.9460237167988713,0.8981818181818182,275,453,337,98.5,46.0
+v3 calibrado + consenso BANC,açúcar/água (LB3),hemisférios FlyWire,0.7885172081933504,0.6857142857142857,385,453,337,98.5,46.0
+v3 calibrado + consenso BANC,açúcar/água (LB3),hemisférios BANC,0.33991981425338136,0.390625,448,453,337,98.5,46.0
+v3 calibrado + consenso BANC,açúcar/água (LB3),indivíduos (esq),0.20181645144183774,0.37745098039215685,408,453,337,98.5,46.0
+v3 calibrado + consenso BANC,açúcar/água (LB3),indivíduos (dir),0.5182235477602173,0.45869565217391306,460,453,337,98.5,46.0
+v3 calibrado + consenso BANC,amargo (LB1a-d),ruído FlyWire,0.9905840948382317,0.9782608695652174,46,71,42,,
+v3 calibrado + consenso BANC,amargo (LB1a-d),ruído BANC,0.9920296162581344,0.8235294117647058,17,71,42,,
+v3 calibrado + consenso BANC,amargo (LB1a-d),hemisférios FlyWire,0.3310496227476813,0.35294117647058826,51,71,42,,
+v3 calibrado + consenso BANC,amargo (LB1a-d),hemisférios BANC,0.11888829365958616,0.01903367496339678,683,71,42,,
+v3 calibrado + consenso BANC,amargo (LB1a-d),indivíduos (esq),0.47471720890817126,0.2826086956521739,46,71,42,,
+v3 calibrado + consenso BANC,amargo (LB1a-d),indivíduos (dir),0.0546612504220919,0.024285714285714285,700,71,42,,
+v3 calibrado + consenso BANC,cheiro de comida,ruído FlyWire,0.936451624286897,0.9136420525657072,799,1606,4408,,
+v3 calibrado + consenso BANC,cheiro de comida,ruído BANC,0.991214554017303,0.9236234458259325,1126,1606,4408,,
+v3 calibrado + consenso BANC,cheiro de comida,hemisférios FlyWire,0.7392049351708158,0.6701388888888888,864,1606,4408,,
+v3 calibrado + consenso BANC,cheiro de comida,hemisférios BANC,0.4093995585767697,0.47320061255742724,1306,1606,4408,,
+v3 calibrado + consenso BANC,cheiro de comida,indivíduos (esq),0.33189395949911377,0.3796664019062748,1259,1606,4408,,
+v3 calibrado + consenso BANC,cheiro de comida,indivíduos (dir),0.3514661678793847,0.3817250213492741,1171,1606,4408,,
+v3 calibrado + consenso BANC,CO2 (ORN_V),ruído FlyWire,0.9948251466528975,0.9708454810495627,343,614,1586,,
+v3 calibrado + consenso BANC,CO2 (ORN_V),ruído BANC,0.8740448848883214,0.813858695652174,736,614,1586,,
+v3 calibrado + consenso BANC,CO2 (ORN_V),hemisférios FlyWire,0.6526228901807368,0.544529262086514,393,614,1586,,
+v3 calibrado + consenso BANC,CO2 (ORN_V),hemisférios BANC,0.46878670169013853,0.48812664907651715,758,614,1586,,
+v3 calibrado + consenso BANC,CO2 (ORN_V),indivíduos (esq),0.5137436557338768,0.34985835694050993,706,614,1586,,
+v3 calibrado + consenso BANC,CO2 (ORN_V),indivíduos (dir),0.5548360449994112,0.3586206896551724,580,614,1586,,
+v3 calibrado + consenso BANC,ameaça (LPLC2),ruído FlyWire,0.9891562107309441,0.95,460,621,2600,116.0,135.0
+v3 calibrado + consenso BANC,ameaça (LPLC2),ruído BANC,0.9490447601943094,0.8940217391304348,1472,621,2600,116.0,135.0
+v3 calibrado + consenso BANC,ameaça (LPLC2),hemisférios FlyWire,0.5622773448048082,0.5567010309278351,582,621,2600,116.0,135.0
+v3 calibrado + consenso BANC,ameaça (LPLC2),hemisférios BANC,-0.2211017798004598,0.31322634200332045,1807,621,2600,116.0,135.0
+v3 calibrado + consenso BANC,ameaça (LPLC2),indivíduos (esq),-0.07457105658731907,0.1727509778357236,1534,621,2600,116.0,135.0
+v3 calibrado + consenso BANC,ameaça (LPLC2),indivíduos (dir),-0.0081010190040036,0.2372093023255814,1290,621,2600,116.0,135.0
+v3 calibrado + consenso BANC,antena (JO-C/E),ruído FlyWire,0.9865355241986264,0.9195979899497487,199,515,1845,34.0,1.5
+v3 calibrado + consenso BANC,antena (JO-C/E),ruído BANC,0.6049572348876489,0.7148864592094197,1189,515,1845,34.0,1.5
+v3 calibrado + consenso BANC,antena (JO-C/E),hemisférios FlyWire,0.18144540092672082,0.40892193308550184,269,515,1845,34.0,1.5
+v3 calibrado + consenso BANC,antena (JO-C/E),hemisférios BANC,-0.2518039612990068,0.26653821451509313,1557,515,1845,34.0,1.5
+v3 calibrado + consenso BANC,antena (JO-C/E),indivíduos (esq),0.14083526804355662,0.12364620938628158,1108,515,1845,34.0,1.5
+v3 calibrado + consenso BANC,antena (JO-C/E),indivíduos (dir),-0.20178397760479452,0.09469026548672567,1130,515,1845,34.0,1.5

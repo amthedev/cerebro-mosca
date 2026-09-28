@@ -1,0 +1,65 @@
+medula acoplada: 879 tipos de descendentes casados FlyWire<->BANC
+t=  0.0s  SEGUINDO CHEIRO energia=0.55 pos=(  0.6, -0.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=0.00% [   0s de relógio]
+t=  5.0s  COMENDO         energia=0.66 pos=( 28.5,  4.2)  MN9=  53Hz GF=   0Hz lembrança=-0.14 memória=2.44% [  24s de relógio]
+t=  9.4s  PREDADOR ATACA na zona B
+t= 10.0s  VOANDO          energia=0.82 pos=( -7.0,  2.8)  MN9=   0Hz GF=   2Hz lembrança=+0.27 memória=4.72% [  50s de relógio]
+t= 10.0s  predador: ESCAPOU
+t= 15.0s  LEMBRANÇA BOA   energia=0.75 pos=( -6.1, 11.8)  MN9=   0Hz GF=   0Hz lembrança=+0.43 memória=5.49% [  77s de relógio]
+t= 16.3s  PREDADOR ATACA na zona B
+t= 16.9s  predador: ESCAPOU
+t= 20.0s  SEGUINDO CHEIRO energia=0.68 pos=( 17.1, 14.1)  MN9=   0Hz GF=   0Hz lembrança=+0.17 memória=5.68% [ 103s de relógio]
+t= 25.0s  LEMBRANÇA BOA   energia=0.81 pos=( 29.2,-10.8)  MN9=   0Hz GF=   0Hz lembrança=+0.93 memória=6.80% [ 129s de relógio]
+t= 30.0s  EXPLORANDO      energia=0.78 pos=( 21.0,-38.4)  MN9=   0Hz GF=   0Hz lembrança=+1.03 memória=6.80% [ 167s de relógio]
+t= 35.0s  EXPLORANDO      energia=0.75 pos=( 32.6,-27.7)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=6.79% [ 215s de relógio]
+t= 40.0s  LEMBRANÇA BOA   energia=0.71 pos=( 23.0,-15.0)  MN9=   0Hz GF=   0Hz lembrança=+1.28 memória=6.78% [ 262s de relógio]
+t= 45.0s  SEGUINDO CHEIRO energia=0.67 pos=( 28.8,  9.1)  MN9=   0Hz GF=   0Hz lembrança=+0.71 memória=6.83% [ 309s de relógio]
+t= 50.0s  BUSCA LOCAL     energia=0.81 pos=( 25.2,  4.9)  MN9=   0Hz GF=   0Hz lembrança=+1.32 memória=7.75% [ 358s de relógio]
+t= 55.0s  EXPLORANDO      energia=0.77 pos=( 16.3,-37.1)  MN9=   0Hz GF=   0Hz lembrança=+1.65 memória=7.76% [ 406s de relógio]
+t= 60.0s  EXPLORANDO      energia=0.74 pos=(  6.3,-15.8)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=7.75% [ 453s de relógio]
+t= 65.0s  LEMBRANÇA BOA   energia=0.70 pos=( 41.9,-10.8)  MN9=   0Hz GF=   0Hz lembrança=+1.70 memória=7.74% [ 501s de relógio]
+t= 66.9s  PREDADOR ATACA
+t= 67.5s  predador: ESCAPOU
+t= 70.0s  SEGUINDO CHEIRO energia=0.63 pos=(-23.8,-11.3)  MN9=   0Hz GF=   0Hz lembrança=+1.22 memória=7.80% [ 550s de relógio]
+t= 75.0s  SEGUINDO CHEIRO energia=0.59 pos=(-22.6,  0.9)  MN9=   0Hz GF=   0Hz lembrança=+1.24 memória=7.99% [ 598s de relógio]
+t= 80.0s  SEGUINDO CHEIRO energia=0.54 pos=(-24.5, -3.9)  MN9=   0Hz GF=   0Hz lembrança=+1.12 memória=8.11% [ 645s de relógio]
+t= 85.0s  COMENDO         energia=0.84 pos=(-27.3, -7.0)  MN9=  26Hz GF=   0Hz lembrança=+1.49 memória=9.03% [ 694s de relógio]
+t= 90.0s  LEMBRANÇA BOA   energia=0.82 pos=(-14.2, -8.5)  MN9=   0Hz GF=   0Hz lembrança=+1.75 memória=9.19% [ 744s de relógio]
+t= 95.0s  EXPLORANDO      energia=0.79 pos=( -2.4,-39.3)  MN9=   0Hz GF=   0Hz lembrança=+1.94 memória=9.18% [ 794s de relógio]
+t= 95.5s  PREDADOR ATACA
+t= 96.1s  predador: ESCAPOU
+t=100.0s  EXPLORANDO      energia=0.72 pos=(-12.4, 40.3)  MN9=   0Hz GF=   0Hz lembrança=+1.71 memória=9.17% [ 844s de relógio]
+t=105.0s  SEGUINDO CHEIRO energia=0.68 pos=(-26.9, -0.2)  MN9=   0Hz GF=   0Hz lembrança=+1.65 memória=9.16% [ 895s de relógio]
+t=110.0s  BUSCA LOCAL     energia=0.83 pos=(-29.5, -8.4)  MN9=   0Hz GF=   0Hz lembrança=+1.76 memória=9.54% [ 945s de relógio]
+t=115.0s  EXPLORANDO      energia=0.79 pos=(  1.9,-25.7)  MN9=   0Hz GF=   0Hz lembrança=+1.91 memória=9.54% [ 994s de relógio]
+t=120.0s  sono: dormiu
+t=120.0s  DORMINDO        energia=0.76 pos=( 19.2,-19.8)  MN9=   0Hz GF=   0Hz lembrança=+3.23 memória=9.53% [1042s de relógio]
+t=125.0s  DORMINDO        energia=0.75 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+2.15 memória=9.52% [1091s de relógio]
+t=130.0s  DORMINDO        energia=0.74 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.51% [1130s de relógio]
+t=135.0s  DORMINDO        energia=0.73 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.49% [1154s de relógio]
+t=140.0s  DORMINDO        energia=0.73 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.48% [1178s de relógio]
+t=145.0s  DORMINDO        energia=0.72 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.47% [1203s de relógio]
+t=150.0s  DORMINDO        energia=0.71 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.45% [1228s de relógio]
+t=155.0s  DORMINDO        energia=0.70 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.44% [1253s de relógio]
+t=160.0s  DORMINDO        energia=0.70 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.43% [1278s de relógio]
+t=165.0s  DORMINDO        energia=0.69 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.41% [1301s de relógio]
+t=170.0s  DORMINDO        energia=0.68 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.40% [1325s de relógio]
+t=175.0s  DORMINDO        energia=0.67 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.39% [1348s de relógio]
+t=180.0s  DORMINDO        energia=0.67 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.37% [1372s de relógio]
+t=185.0s  DORMINDO        energia=0.66 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.36% [1396s de relógio]
+t=190.0s  DORMINDO        energia=0.65 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.35% [1420s de relógio]
+t=195.0s  DORMINDO        energia=0.64 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.34% [1444s de relógio]
+t=200.0s  DORMINDO        energia=0.64 pos=( 19.2,-20.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=9.32% [1468s de relógio]
+t=202.8s  sono: acordou
+t=205.0s  COMENDO         energia=0.64 pos=( 27.5,  4.5)  MN9=  47Hz GF=   0Hz lembrança=+1.73 memória=9.33% [1494s de relógio]
+t=210.0s  COMENDO         energia=0.80 pos=( 27.5,  6.7)  MN9=  37Hz GF=   0Hz lembrança=+1.90 memória=9.55% [1525s de relógio]
+t=215.0s  LEMBRANÇA BOA   energia=0.77 pos=( -0.0, 21.2)  MN9=   0Hz GF=   0Hz lembrança=+1.99 memória=9.55% [1550s de relógio]
+t=220.0s  LEMBRANÇA BOA   energia=0.73 pos=( 40.8,  8.7)  MN9=   0Hz GF=   0Hz lembrança=+1.96 memória=9.54% [1575s de relógio]
+t=225.0s  SEGUINDO CHEIRO energia=0.68 pos=( 31.7, 11.1)  MN9=   0Hz GF=   0Hz lembrança=+1.95 memória=9.54% [1600s de relógio]
+t=230.0s  LEMBRANÇA BOA   energia=0.76 pos=( 30.9, -3.8)  MN9=   0Hz GF=   0Hz lembrança=+1.96 memória=9.59% [1625s de relógio]
+t=235.0s  LEMBRANÇA BOA   energia=0.72 pos=( 13.1,-11.4)  MN9=   0Hz GF=   0Hz lembrança=+1.81 memória=9.57% [1650s de relógio]
+vídeo: /Users/allanmatheus/cerebro/resultados/um_dia.mp4
+
+Viveu 240 s (VIVA)
+Tempo em cada comportamento: DORMINDO 34%, LEMBRANÇA BOA 21%, SEGUINDO CHEIRO 14%, EXPLORANDO 13%, COMENDO 10%, BUSCA LOCAL 5%, VOANDO 2%, EVITANDO CHEIRO 0%, FUGA 0%
+Eventos: salto: 4, voo: 4, escapou: 4, ataque (zona B): 2, ataque: 2, dormiu: 1, acordou: 1
+resumo: /Users/allanmatheus/cerebro/resultados/um_dia_resumo.png

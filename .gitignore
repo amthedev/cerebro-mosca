@@ -1,0 +1,13 @@
+# dados públicos: baixar com scripts/baixar_dados.sh
+dados/
+vendor/
+arquivo/corpo/vendor/
+arquivo/corpo/dados/
+# ambiente e caches
+.venv/
+__pycache__/
+*.pyc
+MUJOCO_LOG.TXT
+# vídeos grandes do corpo arquivado (publicar à parte, se quiser)
+resultados/*.mp4
+resultados/duas_moscas.parquet

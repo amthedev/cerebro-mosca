@@ -1,0 +1,26 @@
+[project]
+name = "cerebro"
+version = "0.1.0"
+description = "Mosca-da-fruta virtual: cérebro FlyWire + corpo NeuroMechFly"
+authors = [
+    { name = "Allan", email = "allandevjr@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "brian2>=2.8",
+    "joblib>=1.6.0",
+    "matplotlib>=3.11.2",
+    "numba>=0.67.0",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "pyarrow>=25.0.1",
+    "scipy>=1.18.1",
+    "tqdm>=4.70.1",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.15,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = "mosca"

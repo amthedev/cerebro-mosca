@@ -1,0 +1,12 @@
+t=  0.0s  SEGUINDO CHEIRO energia=0.35 pos=(  0.6, -0.0)  MN9=   0Hz GF=   0Hz lembrança=+0.00 memória=0.00% [   0s de relógio]
+t=  3.0s  COMENDO         energia=0.54 pos=( 12.9,  5.6)  MN9=  55Hz GF=   0Hz lembrança=+0.39 memória=0.46% [  12s de relógio]
+t=  6.0s  COMENDO         energia=0.82 pos=( 12.9,  5.6)  MN9=  27Hz GF=   0Hz lembrança=+0.95 memória=1.12% [  26s de relógio]
+t=  0.0s  EXPLORANDO      energia=0.85 pos=(  0.6, -0.0)  MN9=   0Hz GF=   0Hz lembrança=+1.23 memória=1.52% [   0s de relógio]
+t=  3.0s  LEMBRANÇA BOA   energia=0.80 pos=( 31.4, -3.5)  MN9=   0Hz GF=   0Hz lembrança=+0.04 memória=1.53% [  12s de relógio]
+treinada seed 100: perto de A  8.5%  perto de B  0.1%  índice +0.98
+treinada seed 101: perto de A  9.5%  perto de B  0.0%  índice +1.00
+treinada seed 102: perto de A 12.0%  perto de B  0.0%  índice +1.00
+treinada seed 103: perto de A 12.2%  perto de B  0.0%  índice +1.00
+treinada seed 104: perto de A 16.0%  perto de B  0.6%  índice +0.93
+treinada seed 105: perto de A 12.6%  perto de B  0.0%  índice +1.00
+MÉDIA treinada: índice +0.99

@@ -1,0 +1,7 @@
+ingenua seed 100: perto de A  0.0%  perto de B  6.9%  índice -1.00
+ingenua seed 101: perto de A  0.0%  perto de B  0.0%  índice +0.00
+ingenua seed 102: perto de A  0.0%  perto de B  0.0%  índice +0.00
+ingenua seed 103: perto de A  0.0%  perto de B  9.2%  índice -1.00
+ingenua seed 104: perto de A  6.7%  perto de B 12.5%  índice -0.30
+ingenua seed 105: perto de A  0.0%  perto de B  9.2%  índice -1.00
+MÉDIA ingenua: índice -0.55

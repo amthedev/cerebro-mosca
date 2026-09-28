@@ -1,0 +1,79 @@
+condição,teste,valor,ok
+original,MN9 com açúcar (Hz),69.0,True
+original,rattle com açúcar (Hz),48.0,True
+original,usnea com açúcar (Hz),76.5,True
+original,clavicle com açúcar (Hz),32.5,True
+original,fudog com açúcar (Hz),6.0,True
+original,MN9 açúcar+amargo / só açúcar,0.007246376811594203,True
+original,MN9 açúcar+Ir94e / só açúcar,0.16666666666666666,True
+original,aBN1 com JO-CE (Hz),70.0,True
+original,aBN1 com JO-F (Hz),0.0,True
+original,células de Kenyon ativas (%),66.4284334556693,False
+original,PNs certos / outros ativos (%),100 / 82,False
+original,Fibra Gigante com LPLC2 (Hz),122.5,True
+original,LB3 esq / dir: neurônios ativos,446 / 8323,False
+só moduladores,MN9 com açúcar (Hz),67.5,True
+só moduladores,rattle com açúcar (Hz),48.0,True
+só moduladores,usnea com açúcar (Hz),76.0,True
+só moduladores,clavicle com açúcar (Hz),32.5,True
+só moduladores,fudog com açúcar (Hz),5.5,True
+só moduladores,MN9 açúcar+amargo / só açúcar,0.007407407407407408,True
+só moduladores,MN9 açúcar+Ir94e / só açúcar,0.0962962962962963,False
+só moduladores,aBN1 com JO-CE (Hz),68.0,True
+só moduladores,aBN1 com JO-F (Hz),0.0,True
+só moduladores,células de Kenyon ativas (%),61.135792930268494,False
+só moduladores,PNs certos / outros ativos (%),100 / 82,False
+só moduladores,Fibra Gigante com LPLC2 (Hz),117.0,True
+só moduladores,LB3 esq / dir: neurônios ativos,456 / 7743,False
+só sinais,MN9 com açúcar (Hz),63.0,True
+só sinais,rattle com açúcar (Hz),48.0,True
+só sinais,usnea com açúcar (Hz),76.0,True
+só sinais,clavicle com açúcar (Hz),33.0,True
+só sinais,fudog com açúcar (Hz),6.0,True
+só sinais,MN9 açúcar+amargo / só açúcar,0.007936507936507936,True
+só sinais,MN9 açúcar+Ir94e / só açúcar,0.1111111111111111,True
+só sinais,aBN1 com JO-CE (Hz),70.0,True
+só sinais,aBN1 com JO-F (Hz),0.0,True
+só sinais,células de Kenyon ativas (%),57.465713733822675,False
+só sinais,PNs certos / outros ativos (%),100 / 75,False
+só sinais,Fibra Gigante com LPLC2 (Hz),110.5,True
+só sinais,LB3 esq / dir: neurônios ativos,457 / 370,True
+só histamina,MN9 com açúcar (Hz),69.0,True
+só histamina,rattle com açúcar (Hz),48.0,True
+só histamina,usnea com açúcar (Hz),76.5,True
+só histamina,clavicle com açúcar (Hz),32.5,True
+só histamina,fudog com açúcar (Hz),6.0,True
+só histamina,MN9 açúcar+amargo / só açúcar,0.007246376811594203,True
+só histamina,MN9 açúcar+Ir94e / só açúcar,0.16666666666666666,True
+só histamina,aBN1 com JO-CE (Hz),70.0,True
+só histamina,aBN1 com JO-F (Hz),0.0,True
+só histamina,células de Kenyon ativas (%),66.4284334556693,False
+só histamina,PNs certos / outros ativos (%),100 / 82,False
+só histamina,Fibra Gigante com LPLC2 (Hz),122.5,True
+só histamina,LB3 esq / dir: neurônios ativos,446 / 8323,False
+só lobo antenal,MN9 com açúcar (Hz),69.0,True
+só lobo antenal,rattle com açúcar (Hz),48.0,True
+só lobo antenal,usnea com açúcar (Hz),76.5,True
+só lobo antenal,clavicle com açúcar (Hz),32.5,True
+só lobo antenal,fudog com açúcar (Hz),6.0,True
+só lobo antenal,MN9 açúcar+amargo / só açúcar,0.007246376811594203,True
+só lobo antenal,MN9 açúcar+Ir94e / só açúcar,0.16666666666666666,True
+só lobo antenal,aBN1 com JO-CE (Hz),70.0,True
+só lobo antenal,aBN1 com JO-F (Hz),0.0,True
+só lobo antenal,células de Kenyon ativas (%),3.2451226579099863,True
+só lobo antenal,PNs certos / outros ativos (%),100 / 1,True
+só lobo antenal,Fibra Gigante com LPLC2 (Hz),122.5,True
+só lobo antenal,LB3 esq / dir: neurônios ativos,455 / 1068,True
+todas,MN9 com açúcar (Hz),63.0,True
+todas,rattle com açúcar (Hz),47.5,True
+todas,usnea com açúcar (Hz),77.0,True
+todas,clavicle com açúcar (Hz),31.0,True
+todas,fudog com açúcar (Hz),6.0,True
+todas,MN9 açúcar+amargo / só açúcar,0.007936507936507936,True
+todas,MN9 açúcar+Ir94e / só açúcar,0.14285714285714285,True
+todas,aBN1 com JO-CE (Hz),70.0,True
+todas,aBN1 com JO-F (Hz),0.0,True
+todas,células de Kenyon ativas (%),3.3996523082866528,True
+todas,PNs certos / outros ativos (%),100 / 0,True
+todas,Fibra Gigante com LPLC2 (Hz),116.0,True
+todas,LB3 esq / dir: neurônios ativos,453 / 370,True

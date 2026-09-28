@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Se usar este código, cite assim / If you use this software, please cite it as below."
+title: "cerebro: exact fast whole-brain Drosophila LIF model, audit and FlyWire vs BANC comparison"
+authors:
+  - family-names: "Silva Santos"
+    given-names: "Allan Matheus"
+license: MIT
+date-released: 2026-09-28
