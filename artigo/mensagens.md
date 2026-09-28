@@ -48,7 +48,7 @@ continuam de pé.
 > these corrections: sugar→MN9, Rattle, Usnea, Clavicle and Fudog; the bitter
 > veto; the partial Ir94e veto; and JO-CE→aBN1 versus JO-F.
 >
-> Code and details: [LINK DO SEU REPOSITÓRIO] (`experimentos/14_auditoria.py`).
+> Code and details: https://github.com/amthedev/cerebro-mosca (`experimentos/14_auditoria.py`).
 > Draft write-up: https://github.com/amthedev/cerebro-mosca/blob/main/artigo/preprint.md
 >
 > Best regards,

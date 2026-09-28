@@ -4,8 +4,8 @@ Nada foi publicado nem enviado. Tudo depende de você.
 
 ## 0. Antes de tudo: revisar
 - Leia o `preprint.md` (ou o `preprint.pdf`) inteiro. Seu nome já está lá;
-  falta trocar `[e-mail]` (o bioRxiv exige um e-mail de contato) e
-  `[GitHub URL]` pelo link do repositório. Depois gere o PDF de novo:
+  falta trocar `[e-mail]` (o bioRxiv exige um e-mail de contato). Depois gere
+  o PDF de novo:
   `uv run --with markdown python scripts/gerar_pdf.py`.
 - O artigo do BANC está citado como preprint do bioRxiv
   (doi:10.1101/2025.07.31.667571). Se ele já saiu numa revista, troque pela
@@ -16,19 +16,10 @@ Nada foi publicado nem enviado. Tudo depende de você.
 - Rode de novo, na sua máquina, `experimentos/13` a `16` e confira que os
   números batem.
 
-## 1. Código no GitHub
-Crie um repositório vazio em github.com (ex.: `cerebro-mosca`) e rode:
-```bash
-cd ~/cerebro
-git init
-git add .
-git commit -m "Cérebro da mosca: motor exato, auditoria e comparação FlyWire x BANC"
-git branch -M main
-git remote add origin https://github.com/SEU_USUARIO/cerebro-mosca.git
-git push -u origin main
-```
-Os dados (~1 GB) não vão para o GitHub (`.gitignore`); quem clonar roda
-`scripts/baixar_dados.sh`.
+## 1. Código no GitHub (feito)
+https://github.com/amthedev/cerebro-mosca. Para enviar mudanças novas:
+`git add -A && git commit -m "o que mudou" && git push`. Os dados (~1 GB) não
+vão para o GitHub (`.gitignore`); quem clonar roda `scripts/baixar_dados.sh`.
 
 ## 2. DOI para o código (Zenodo, grátis)
 Em zenodo.org, entre com a conta do GitHub, ative o repositório e crie um
@@ -41,9 +32,9 @@ Em zenodo.org, entre com a conta do GitHub, ative o repositório e crie um
   pode enviar. Eles fazem uma triagem de alguns dias antes de publicar.
 - Declare o uso de IA (já está na seção "AI assistance").
 
-## 4. Avisar as equipes
-Use os textos de `mensagens.md` (issues no GitHub de cada projeto), depois que
-o repositório estiver no ar.
+## 4. Avisar as equipes (feito)
+As três issues estão abertas (links no README). Acompanhe as respostas pelo
+GitHub (você recebe notificação por e-mail) e responda com educação.
 
 ## 5. Divulgar
 Um fio curto (Bluesky/X/LinkedIn) com a figura 2B: "um neurônio com sinal
